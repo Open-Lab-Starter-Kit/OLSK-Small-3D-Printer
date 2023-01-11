@@ -6,22 +6,44 @@
 
 <br>
 
+Introduction
+--
+
+OLSK Small 3D Printer V1 is an open source desktop 3D printer with printing volume of 200 x 200 x 200 mm. Its rigid frame, fully composed of aluminum intelocked plates, and its robust linear rail system makes the machine very stable for printing, in addition to the ballscrew Z-axis ball screw which contributes to its precision. The adjustable and auto-leveling bed is heated and with good adhesion, covered with an non-sticking layer to facilitate the removal of the prints. The housing is enclosed to keep a higher temperature. It also features a touch screen, light and sound indicators and silent motion using trinamic drivers.
+
+<img src="media/OLSK Small 3DPrinter2_low-res.jpg" width="100%">
+
+The Assembly Workbook
+--
+
+All OLSK machines are open source and have the BOM and necessary files available in this repository for replication. The assembly of parts is also documented in a workbook where each step contains a list of parts, tools and instruction remarks, following a logic order to provide a smooth assembly.
+
 Specifications V1
 --
 
-- printing area: 200x200x200
-- frame: CNC milled aluminum
+- printing volume: 200x200x200
+- frame and housing: CNC milled aluminum interlocked plates
+- bed: aluminum with non-sticking layer
 - motion: GT2 10mm belt, 12mm ball screw
 - guides: 16mm linear shaft, 12mm linear rails
 - motors: stepper motor NEMA 17
+- drivers: trinamic
+- adjustable and heated printing bed
+- auto-leveling bed with inductive probe
+- robust frame
+- homing with inductive sensors
+- touch screen
+- light and sound indicators
+- closed housing
 
 Author
 --
+
+OLSK Large 3D Printer has been designed and built by **[InMachines Ingrassia GmbH](https://www.inmachines.net/)**.
+
 <img src="https://irp.cdn-website.com/2b5ccdcd/dms3rep/multi/InMachines_Logo_positive_white.png" width="50%">
 
 <br>
-
-OLSK Large 3D Printer has been designed and built by **[InMachines Ingrassia GmbH](https://www.inmachines.net/)**.
 
 Machine design:
 - **[Wilhelm Schütze](http://fabacademy.org/archives/2015/sa/students/schutze.wilhelm/index.html)**
