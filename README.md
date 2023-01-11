@@ -36,6 +36,12 @@ Specifications V1
 - light and sound indicators
 - closed housing
 
+Files
+--
+
+- **[Assembly Workbook](OLSK_Small_3D_Printer_V1_Workbook.pdf)**
+- **[Wiring Schematic](OLSK_Small_3D_Printer_V1_Wiring_Schematic.pdf)**
+
 Author
 --
 
