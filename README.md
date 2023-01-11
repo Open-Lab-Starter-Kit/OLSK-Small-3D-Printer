@@ -9,7 +9,7 @@
 Introduction
 --
 
-OLSK Small 3D Printer V1 is an open source desktop 3D printer with printing volume of 200 x 200 x 200 mm. Its rigid frame, fully composed of aluminum intelocked plates, and its robust linear rail system makes the machine very stable for printing, in addition to the ballscrew Z-axis ballscrew which contributes to its precision. The adjustable and auto-leveling bed is heated and with good adhesion, covered with an non-sticking layer to facilitate the removal of the prints. The housing is enclosed to keep a higher temperature. It also features a touch screen, light and sound indicators and silent motion using trinamic drivers.
+OLSK Small 3D Printer V1 is an open source desktop 3D printer with printing volume of 200 x 200 x 200 mm. Its rigid frame, fully composed of aluminum intelocked plates, and its robust linear rail system makes the machine very stable for printing, in addition to the ballscrew Z-axis ball screw which contributes to its precision. The adjustable and auto-leveling bed is heated and with good adhesion, covered with an non-sticking layer to facilitate the removal of the prints. The housing is enclosed to keep a higher temperature. It also features a touch screen, light and sound indicators and silent motion using trinamic drivers.
 
 <img src="media/OLSK Small 3DPrinter2_low-res.jpg" width="100%">
 
