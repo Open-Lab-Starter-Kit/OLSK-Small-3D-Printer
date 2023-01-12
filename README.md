@@ -21,7 +21,7 @@ All OLSK machines are open source and have the BOM and necessary files available
 Specifications V1
 --
 
-- printing volume: 200x200x200
+- printing volume: 200 x 200 x 200 mm
 - frame and housing: CNC milled aluminum interlocked plates
 - bed: aluminum with non-sticking layer
 - motion: GT2 10mm belt, 12mm ball screw
