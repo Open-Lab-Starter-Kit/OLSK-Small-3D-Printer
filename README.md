@@ -1,7 +1,7 @@
 
 <div align="center"><h1 style=align="center">OLSK Small 3D Printer V1</h1></div>
 
-<div align="center"><img src="media/OLSK-Small-3D-Printer.jpg" width="100%"></div>
+<div align="center"><img src="media/OLSK_Small_3DPrinter1_low-res.jpg" width="100%"></div>
 <div align="center"><i>Open Source 3D Printer - Small version - Open Lab Starter Kit</i></div>
 
 <br>
@@ -35,6 +35,8 @@ Specifications V1
 - touch screen
 - light and sound indicators
 - closed housing
+
+<img src="media/Highlights.jpg" width="100%">
 
 Files
 --
