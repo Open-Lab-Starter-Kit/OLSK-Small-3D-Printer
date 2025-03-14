@@ -1,9 +1,9 @@
 {
-  "name": "threejs-journey-exercise",
+  "name": "olsk-small-3D-printer",
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://open-lab-starter-kit.github.io/Online-Documentation/",
+  "homepage": "https://open-lab-starter-kit.github.io/OLSK-Small-3D-Printer/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
@@ -13,7 +13,7 @@
   },
   "devDependencies": {
     "@vitejs/plugin-react": "3.0",
-    "gh-pages": "^6.1.1",
+    "gh-pages": "^6.3.0",
     "vite": "^4.0.4"
   },
   "dependencies": {
@@ -31,10 +31,9 @@
     "react-scripts": "5.0",
     "styled-components": "^6.1.6",
     "suspend-react": "^0.1.3",
+    "svg-pan-zoom": "github:bumbu/svg-pan-zoom",
     "three": "^0.148.0",
-    "three-mesh-bvh": "^0.7.4",
     "vite-plugin-glsl": "^1.1.2",
-    "zustand": "^4.5.2",
-    "svg-pan-zoom": "github:bumbu/svg-pan-zoom"
+    "zustand": "^4.5.2"
   }
 }
