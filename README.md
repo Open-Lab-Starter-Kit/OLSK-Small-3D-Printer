@@ -9,7 +9,7 @@
 Introduction
 --
 
-OLSK Small 3D Printer v3 is an open-source desktop 3D printer with active cooled Core XY motion system and independent Z motors. It auto calibrates before each print under 5 min with the Eddy Current Surface Scanner. It also features a built-in accelerometer, an enhanced cooling system with auxiliary part cooling fans, high flow nozzle and filament sensor. Its housing is fully enclosed for thermal stability. For maintenance, the magnetic beds are removable and the electronic compartment is easily accessible. 
+OLSK Small 3D Printer v3 is an open-source desktop 3D printer with active cooled Core XY motion system and independent Z motors. It auto-calibrates before each print under 5 min with the Eddy Current Surface Scanner. It also features a built-in accelerometer, an enhanced cooling system with auxiliary part cooling fans, high flow nozzle and filament sensor. Its housing is fully enclosed for thermal stability. For maintenance, the magnetic beds are removable and the electronic compartment is easily accessible. 
 
 <div><img src="media/Details.jpg" width="100%"></div>
 
@@ -23,26 +23,26 @@ All OLSK machines are open source and have an assembly manual, the BOM and neces
 Specifications V3
 --
 
-Max travel speed: 1000mm/s @ 25k mm²/s
-Max printing speed: 300mm/s
-Printing volume: 235*235*235mm
- V6 standard nozzle compatibility
-7 inch touchscreen
-Dual PSU 24v 350w + 55v 350w
-Klipper firmware based (customized)
+- Max travel speed: 1000mm/s @ 25k mm²/s
+- Max printing speed: 300mm/s
+- Printing volume: 235*235*235mm
+- V6 standard nozzle compatibility
+- 7 inch touchscreen
+- Dual PSU 24v 350w + 55v 350w
+- Klipper firmware based (customized)
+- Motion system: core XY
 
 
 Files
 --
 
 - **[CAD](cad)**
-- **[Assembly Workbook](OLSK_Small_3D_Printer_V2_Workbook.pdf)**
 - **[Wiring Schematic](OLSK_Small_3D_Printer_V3_WiringSchematic.pdf)**
 
 Author
 --
 
-OLSK Large 3D Printer has been designed and built by **[InMachines Ingrassia GmbH](https://www.inmachines.net/)**.
+OLSK Small 3D Printer has been designed and built by **[InMachines Ingrassia GmbH](https://www.inmachines.net/)**.
 
 <img src="https://irp.cdn-website.com/2b5ccdcd/dms3rep/multi/InMachines_Logo_positive_white.png" width="50%">
 
@@ -79,6 +79,10 @@ Assembly manual, pictures, videos, presentations, description text and other typ
 Previous Version
 --
 
+**[OLSK Small 3D Printer V2](OLSK_Small_3D_Printer_V2)**
+<br>
+<img src="media/OLSK_3DPrinter_v2_1_low.png" width="30%">
+
 **[OLSK Small 3D Printer V1](OLSK_Small_3D_Printer_V1)**
 <br>
-<img src="media/OLSK Small 3DPrinter1_low-res.jpg" width="30%">
+<img src="media/OLSK_Small_3DPrinter1_low-res" width="30%">
