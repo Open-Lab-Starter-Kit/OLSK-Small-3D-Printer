@@ -1,7 +1,7 @@
 
-<div align="center"><h1 style=align="center">OLSK Small 3D Printer V2</h1></div>
+<div align="center"><h1 style=align="center">OLSK Small 3D Printer V3</h1></div>
 
-<div align="center"><img src="media/OLSK_3DPrinter_v2_1_low.png" width="100%"></div>
+<div align="center"><img src="media/OLSK_Small_3DPrinter_V3_1.png" width="100%"></div>
 <div align="center"><i>Open Source 3D Printer - Small version - Open Lab Starter Kit</i></div>
 
 <br>
@@ -9,71 +9,35 @@
 Introduction
 --
 
-OLSK Small 3D Printer v2 is an open-source desktop 3D printer with a printing volume of 240 x 240 x 240 mm. Its rigid frame is fully composed of aluminum interlocked plates. The coreXY motion system allows a good quality fast printing of max motion at 1200mm/s at 20k mm/s2 acceleration (it prints this Prusa 3D model 2x faster than its original Prusa 3D printer). The bed has an automatic mesh leveling and Z tilt alignment and the printing surface with a non-sticking layer is removable. It also features a user-friendly interface with Klipper-based firmware, a touch screen, and a filament runout sensor for a smooth printing experience. The housing is enclosed to keep a higher temperature. 
+OLSK Small 3D Printer v3 is an open-source desktop 3D printer with active cooled Core XY motion system and independent Z motors. It auto calibrates before each print under 5 min with the Eddy Current Surface Scanner. It also features a built-in accelerometer, an enhanced cooling system with auxiliary part cooling fans, high flow nozzle and filament sensor. Its housing is fully enclosed for thermal stability. For maintenance, the magnetic beds are removable and the electronic compartment is easily accessible. 
 
-<div><img src="media/OLSK_Smalll_3D_Printer_V2_2_low.jpg" width="100%"></div>
+<div><img src="media/Details.jpg" width="100%"></div>
 
-The Assembly Workbook
+The Assembly Manual
 --
 
-All OLSK machines are open source and have the BOM and necessary files available in this repository for replication. The assembly of parts is also documented in a workbook where each step contains a list of parts, tools and instruction remarks, following a logic order to provide a smooth assembly.
+All OLSK machines are open source and have an assembly manual, the BOM and necessary files available in this repository for replication. The assembly manual is an interactive 3D guide though each step and contains a list of parts, tools and instruction remarks, which follows a logic order to provide a smooth assembly.
 
-Specifications V2
+- **[Assembly Manual](https://open-lab-starter-kit.github.io/OLSK-Small-3D-Printer/)**
+
+Specifications V3
 --
 
-Dimensions
-- Physical Dimensions: 460 x 540 x 610 mm
-- Printing Volume: 220 x 240 x 240 mm
-  
-Speed
-- Max Speed: 1200 mm/s
-- Standard Jog Speed: 800 mm/s
-- Standard Printing speed: 300 mm/s
-- Max Acceleration: 20000 mm/s²
-  
-Extruder
-- Max temperature 295°C
-- Ultra light setup
-- Direct drive , dual gear
-- Bimetallic Heatbreak (all metal)
-- High flow nozzle - 0.4mm standard (other sizes available)
-- Fast heating: 50W heating cartridge
-- Capricorn ultra low friction inverse bowden PTFE tube
-- Integrated accelerometer (for input shapping)
-  
-Bed - Printing Surface
-- Removable magnetic flex plate
-- Textured PEI coated
-- Mesh bed leveling (deploying probe)
-- Z tilt / bed traming - Independent dual Z stepper motors
-- Fast heating - 24V,300W silicon heating pad Pad
+Max travel speed: 1000mm/s @ 25k mm²/s
+Max printing speed: 300mm/s
+Printing volume: 235*235*235mm
+ V6 standard nozzle compatibility
+7 inch touchscreen
+Dual PSU 24v 350w + 55v 350w
+Klipper firmware based (customized)
 
-Features
-- High performance Stepper motor drivers - TMC5160 pro (48v)
-- High performance Stepper motors - LDO 42STH48-2804AH
-- High quality Power supply - Meanwell 48v 600W
-- High definition Touchscreen interface - 7 inch
-- Monitoring camera - 1920×1080@30fps
-- High flow remote part cooling fan
-- Filament sensor (auto pause)
-- Neopixel customizable RGB LEDs
-- WIFI connectivity
-
-Software
-- Firmware: Klipper
-- Control and monitoring Interface: Mainsail
-- Slicer: Orca Slicer (Compatible with most slicers, orca slicer profiles are provided)
-
-<img src="media/OLSK_3DPrinter_Details_collage.jpg" width="100%">
 
 Files
 --
 
-- **[BOM](BOM)**
-- **[CAD](CAD)**
-- **[Firmware](Firmware)**
+- **[CAD](cad)**
 - **[Assembly Workbook](OLSK_Small_3D_Printer_V2_Workbook.pdf)**
-- **[Wiring Schematic](OLSK_Small_3D_Printer_V2_Wiring_Schematic.pdf)**
+- **[Wiring Schematic](OLSK_Small_3D_Printer_V3_WiringSchematic.pdf)**
 
 Author
 --
