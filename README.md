@@ -16,7 +16,7 @@ OLSK Small 3D Printer v3 is an open-source desktop 3D printer with active cooled
 The Assembly Manual
 --
 
-All OLSK machines are open source and have an assembly manual, the BOM and necessary files available in this repository for replication. The assembly manual is an interactive 3D guide though each step and contains a list of parts, tools and instruction remarks, which follows a logic order to provide a smooth assembly.
+All OLSK machines are open source and have an assembly manual, the BOM and necessary files available in this repository for replication. The assembly manual is an interactive 3D guide though each step and contains a list of parts, tools and instruction remarks, which follows a logical order to provide a smooth assembly.
 
 - **[Assembly Manual](https://open-lab-starter-kit.github.io/OLSK-Small-3D-Printer/)**
 
@@ -79,10 +79,12 @@ Assembly manual, pictures, videos, presentations, description text and other typ
 Previous Version
 --
 
+The previous versions of OLSK machines will always be available.
+
 **[OLSK Small 3D Printer V2](OLSK_Small_3D_Printer_V2)**
 <br>
 <img src="media/OLSK_3DPrinter_v2_1_low.png" width="30%">
 
 **[OLSK Small 3D Printer V1](OLSK_Small_3D_Printer_V1)**
 <br>
-<img src="media/OLSK_Small_3DPrinter1_low-res" width="30%">
+<img src="media/OLSK_Small_3DPrinter1_low-res.jpg" width="30%">
