@@ -37,6 +37,9 @@ Files
 --
 
 - **[CAD](cad)**
+- **[Firmware](firmware)**
+- **[Settings](settings)**
+- **[BOM](OLSK_Small_3D_Printer_V3-BOM.xlsx)**
 - **[Wiring Schematic](OLSK_Small_3D_Printer_V3_WiringSchematic.pdf)**
 
 Author
