@@ -25,7 +25,7 @@ Specifications V3
 
 - Max travel speed: 1000mm/s @ 25k mm²/s
 - Max printing speed: 300mm/s
-- Printing volume: 235*235*235mm
+- Printing volume: 235 x 235 x 235mm³
 - V6 standard nozzle compatibility
 - 7 inch touchscreen
 - Dual PSU 24v 350w + 55v 350w
