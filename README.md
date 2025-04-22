@@ -9,7 +9,7 @@
 Introduction
 --
 
-OLSK Small 3D Printer v3 is an open-source desktop 3D printer with active cooled Core XY motion system and independent Z motors. It auto-calibrates before each print under 5 min with the Eddy Current Surface Scanner. It also features a built-in accelerometer, an enhanced cooling system with auxiliary part cooling fans, high flow nozzle and filament sensor. Its housing is fully enclosed for thermal stability. For maintenance, the magnetic beds are removable and the electronic compartment is easily accessible. 
+OLSK Small 3D Printer v3 is an open-source desktop 3D printer with active cooled Core XY motion system and independent Z motors. It auto-calibrates before each print under 5 min with the Eddy Current Surface Scanner. It also features a built-in accelerometer, an enhanced cooling system with auxiliary part cooling fans, high flow nozzle and filament sensor. Its housing is fully enclosed for thermal stability. For maintenance, the magnetic beds are removable and the electronic compartment is easily accessible.
 
 <div><img src="media/Details.jpg" width="100%"></div>
 
@@ -78,6 +78,16 @@ Hardware design, CAD and PCB files, BOM, settings and other technical or design 
 Assembly manual, pictures, videos, presentations, description text and other type of media are released under the following license:
 
 - Creative-Commons-Attribution-ShareAlike 4.0 International - **[CC BY-SA 4.0](LICENSE_CC_BY_SA_4.0.txt)**
+
+- See the LICENSES folder and the SPDX metadata for more details on other files.  The project
+is [REUSE](https://reuse.software/) compliant
+
+Copyright
+--
+
+- Daniele Ingrassia, InMachines Ingrassia GmbH
+
+- Tobias Redlich, Helmut-Schmidt-Universität/Universität der Bundeswehr Hamburg
 
 Previous Version
 --
